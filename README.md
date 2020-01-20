@@ -24,7 +24,7 @@ I am a hard working individual who strives to deliver the highest calibre of wor
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Oct 2019 - Jan 2020)
 
 - OOP, TDD, MVC
 - Agile
