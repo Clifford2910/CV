@@ -26,10 +26,10 @@ I am a hard working individual who strives to deliver the highest calibre of wor
 
 #### Makers Academy (start_date to end_date)
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- OOP, TDD, MVC
+- Agile
+- Ruby, Rails, JavaScript, ReactJS
+- RSpec, Jasmine, Jest
 
 #### Ilford County High School (2001 - 2009)
 
