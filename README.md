@@ -22,6 +22,10 @@ I am a hard working individual who strives to deliver the highest calibre of wor
 
 ## Projects and Code
 
+**Route Around** - A single page web app designed for urban runners, walkers and dog walkers. Without any prior knowledge of an area it allows a user to plot an interesting circular route for the desired distance, using either a location (postcode) or current location (using geolocation services), that doesn't double back on itself and starts and finishes in the same place for efficiency. Other variations of this out on the market we found were either poorly done or locked behind high pay walls. This app was written in Node.js, React.js and Express. We used a Google API for the relevent map features such as Post Code conversion and rendering the map. This was made in 2 week as part of the Makers Academy final project. We decided as part of our final project to use some technologies that were new to us and this tested our ability to learn and adapt in a short space of time
+
+https://routearound.herokuapp.com/
+
 ## Education
 
 #### Makers Academy (Oct 2019 - Jan 2020)
