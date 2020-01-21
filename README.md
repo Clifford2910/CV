@@ -1,34 +1,34 @@
 ## Alex Clifford
 
-I am a hard working individual who strives to deliver the highest calibre of work. Coming from a strong sporting background I work well in a team/ group environment as well as working autonomously. This allows me to develop my interpersonal skills accompanied by taking initiative and making decisions when necessary. I am a level headed thinker who thrives under pressure. My attention to detail is an attribute that I pride myself on and im always looking to improve myself in all aspects of my personal life and professional career
+I am a hard working individual who strives to deliver the highest calibre of work. Coming from a strong sporting background I work well in a team/ group environment as well as working autonomously. This allows me to develop my interpersonal skills accompanied by taking initiative and making decisions when necessary. I am a level headed thinker who thrives under pressure. My attention to detail is an attribute that I pride myself on and im always looking to improve myself in all aspects of my personal life and professional career. Recently I have been attending tech meetups to gain a better understanding and upskill myself
 
 ## Skills
 
-**Team-player** - Always been happy working in a team environment, offering my support to those who need it or in a leadership role depending on the situation.
+**Work well under pressure** - First aid plays a major part in my workplace experiences, and having dealt with all manor of incidents I know in myself that I am able to think clearly, logically and act with purpose and direction under intense pressure. I have successfully performed CPR 3 times while working in the leisure industry- making decisions, delegating clear roles and galvanising a team to a single purpose.
 
-**Adaptable** - Having worked with a wide variety of different people from different backgrounds and industries i have always been able to connect well and enjoy the opportunity of meeting new people and working on different tasks.
+**Team-player** - Always been happy working in a team environment, offering my support to those who need it or in a leadership role depending on the situation. During my fulltime education at Makers Academy it was always a priority to make sure my team was having fun and were motivated, this also shows in how productive we were in our projects and how harmonious the enviroment was.
+
+**Adaptable** - Having worked with a wide variety of different people from different backgrounds and industries i have always been able to connect well and enjoy the opportunity of meeting new people and working on different tasks. Being able to be responsive and flexible is something I strive for.
 
 **Driven** - A firm believer that hard work beats talent when talent doesn't work hard. I always strive to do my best and push myself.
 
-**Attention to detail** - Good foundations come from being able to spot the imperfections or gaps and fix them. Having collaborated on several workplace policies, I aim to bring a high standard of forward thinking.
+**Attention to detail** - Good foundations come from being able to spot the imperfections or gaps and fix them. Having collaborated on several workplace policies and coding projects, I aim to bring a high standard of forward thinking. Something I learned from Makers Academy was best coding practice and principles and i aim to refer to them in the future in order to produce high quality code  
 
 **Enthusiastic** - I bring a good energy, a can-do attitude and throw myself into work. Regardless of how difficult or time consuming it is.
 
-**Work well under pressure** - First aid plays a major part in my workplace experiences, and having dealt with all manor of incidents I know in myself that I am able to think clearly, logically and act with purpose and direction under intense pressure.
+**Hands-on** - Always on hand to get stuck in with work or learning a new skill. Sometimes you’ve got to get in a mess to get out of a mess, but as long as you learn along the way, it’s an experience you can call upon. One of the things I learned while coding is that its always best to try, the more code you write the more you may get wrong, but the more breakthroughs you will have. 
 
-**Hands-on** - Always on hand to get stuck in with work or learning a new skill. Sometimes you’ve got to get in a mess to get out of a mess, but as long as you learn along the way, it’s an experience you can call upon.
-
-**Project orientated** - I have always enjoyed having an end goal, something to aim for that my skills can be tested within. Something that can be worked on, delivered, and reviewed
+**Project orientated** - I have always enjoyed having an end goal, something to aim for that my skills can be tested within. Something that can be worked on, delivered, and reviewed. We had many different coding projects at Makers Academy and each of them were fun and educational with regards to overcoming a new challenge or technology
 
 ## Projects and Code
 
-**Route Around** - A single page web app designed for urban runners, walkers and dog walkers. Without any prior knowledge of an area it allows a user to plot an interesting circular route for the desired distance, using either a location (postcode) or current location (using geolocation services), that doesn't double back on itself and starts and finishes in the same place for efficiency. We couldnt find anything like this on the market and anything we saw that was similar we found were either poorly done or locked behind high pay walls. This app was written in Node.js, React.js and Express. We used a Google API for the relevent map features such as postcode conversion and rendering the map. This was made in 2 week as part of the Makers Academy final project. We decided as part of our final project to use some technologies that were new to us and this tested our ability to learn and adapt in a short space of time.
+**Route Around** - A single page web app designed for urban runners, walkers and dog walkers. Without any prior knowledge of an area it allows a user to plot an interesting circular route for the desired distance, using either a location (postcode) or current location (using geolocation services) and starts and finishes in the same place for efficiency. We couldn't find anything like this on the market and anything we saw that was similar we found were either poorly done or locked behind high pay walls. This app was written in Node.js, React.js and Express. We used a Google API for the relevent map features such as postcode conversion to lat, lng coordinates and rendering the map. This was made in 2 weeks as part of the Makers Academy final project. We decided as part of our final project to use some technologies that were new to us and this tested our ability to learn and adapt in a short space of time. One of the challenges we faced during the final project was being able to communicate effectively while taking on a heavy work and learning load. We managed to mitigate this by holding daily stand-ups and retros (methods of touching base with regards to how people are feeling and progressing with work). This gave us an excellent platform to discuss any successes or blockers and plan accordingly, it also gave us time to have shared learning experiences where memebers of the team could explain what they had been working on and give a technical overview.
 
 https://routearound.herokuapp.com/
 
 ## Education
 
-#### Makers Academy (Oct 2019 - Jan 2020)
+#### Makers Academy (Sep 2019 - Jan 2020)
 
 - OOP, TDD, MVC
 - Agile
@@ -55,7 +55,7 @@ GCSEs: Mathematics, Chemistry, Physics, Biology, Resistant Materials, French, IC
 **Fullwell Cross Leisure Centre** (Jun 2015 - Nov 2018)   
 - Duty Manager
 
-**Ashton Leisure Centre**  (Jul 2013 - Jun 2015)
+**Ashton Playing Fields**  (Jul 2013 - Jun 2015)
 - Duty Manager
 
 **Fullwell Cross Leisure Centre**  (Sep 2009 - Jul 2013)
