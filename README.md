@@ -1,6 +1,6 @@
 ## Alex Clifford
 
-I am a hard working individual who strives to deliver the highest calibre of work. Coming from a strong sporting background I work well in a team/ group environment as well as working autonomously. This allows me to develop my interpersonal skills accompanied by taking initiative and making decisions when necessary. I am a level headed thinker who thrives under pressure. My attention to detail is an attribute that I pride myself on and im always looking to improve myself in all aspects of my personal life and professional career. Recently I have been attending tech meetups to gain a better understanding and upskill myself
+I am a hard working individual who strives to deliver the highest calibre of work. Coming from a strong sporting background I work well in a team/ group environment as well as working autonomously. This allows me to develop my interpersonal skills accompanied by taking initiative and making decisions when necessary. I am a level headed thinker who thrives under pressure. My attention to detail is an attribute that I pride myself on and im always looking to improve myself in all aspects of my personal life and professional career. Recently I have been attending tech meetups to gain a better understanding of the industry and upskill myself
 
 ## Skills
 
