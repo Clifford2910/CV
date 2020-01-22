@@ -1,6 +1,10 @@
 ## Alex Clifford
 
-I am a hard working individual who strives to deliver the highest calibre of work. Coming from a strong sporting background I work well in a team/ group environment as well as working autonomously. This allows me to develop my interpersonal skills accompanied by taking initiative and making decisions when necessary. I am a level headed thinker who thrives under pressure. My attention to detail is an attribute that I pride myself on and im always looking to improve myself in all aspects of my personal life and professional career. Recently I have been attending tech meetups to gain a better understanding of the industry and upskill myself
+Late 2019, after much reaserch and several online courses, I decided to make a career change from Leisure into Software Development, my first step was to throw myself into an intense 3 month coding bootcamp at Makers Academy. This taught me some excellent core skills/languages and let me work solo on my own tasks and collaboratively on group projects, culminating in a group 'final project' that would be the show-piece of my time at Makers. It was also an interesting experience going back to fulltime education, I feel that learning how to learn again and entering a non-traditional self-taught system took me out of my comfort zone and helped me grow.
+
+Before Makers I was working in the leisure industry, I started as a lifeguard straight out of school and progressed within the same company to eventually manage several sites including the flagship site- Fullwell Cross Leisure Centre (Vision RCL). I have always been very interested in sport and this role aligned with my lifestyle. I have participated in many sports, most notably rugby, at which I made it to county level and represented Essex.
+I am an avid video game player and while now its at a much more casual level, during my prime I played in several competitive PC e-leagues and attended several gaming tournaments.
+I would consider myself to be very competitive and I place a high importance on teamwork, making sure that everyone is having fun and continuously improving themselves.
 
 ## Skills
 
