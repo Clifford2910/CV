@@ -10,19 +10,13 @@ I would consider myself to be very competitive and I place a high importance on 
 
 **Work well under pressure** - First aid plays a major part in my workplace experiences, and having dealt with all manor of incidents I know in myself that I am able to think clearly, logically and act with purpose and direction under intense pressure. I have successfully performed CPR 3 times while working in the leisure industry- making decisions, delegating clear roles and galvanising a team to a single purpose.
 
-**Team-player** - Always been happy working in a team environment, offering my support to those who need it or in a leadership role depending on the situation. During my fulltime education at Makers Academy it was always a priority to make sure my team was having fun and were motivated, this also shows in how productive we were in our projects and how harmonious the enviroment was.
+**Team-player** - I have always been happy working in a team environment, offering my support to those who need it or in a leadership role depending on the situation. During my fulltime education at Makers Academy it was always a priority to make sure my team was having fun and were motivated, I would often suggest daily stand-ups and retros with a different scrum master each day, this allowed everyone to have a voice and feel valued. On a more social level, group lunches or activities were an excellent way to bring people together.
 
-**Adaptable** - Having worked with a wide variety of different people from different backgrounds and industries i have always been able to connect well and enjoy the opportunity of meeting new people and working on different tasks. Being able to be responsive and flexible is something I strive for.
+**Attention to detail** - Good foundations come from being able to spot the imperfections or gaps and fix them. Having collaborated on several workplace policies/ auditing documents during my time in leisure, and coding projects at my time at makers, I aim to bring a high standard of forward thinking. Something I learned from Makers Academy was best coding practice and principles and I aim to refer to them in the future in order to produce high quality code. 
 
-**Driven** - A firm believer that hard work beats talent when talent doesn't work hard. I always strive to do my best and push myself.
+**Project orientated** - I enjoy having an end goal, something to aim for that my skills can be tested on. Something that can be worked on, delivered, and reviewed. We had many different coding projects at Makers Academy and each of them were fun and educational with regards to overcoming a new challenge or technology. Giving and recieving feedback after a project is always important as it allows an oppertunity for self reflection.
 
-**Attention to detail** - Good foundations come from being able to spot the imperfections or gaps and fix them. Having collaborated on several workplace policies and coding projects, I aim to bring a high standard of forward thinking. Something I learned from Makers Academy was best coding practice and principles and i aim to refer to them in the future in order to produce high quality code  
-
-**Enthusiastic** - I bring a good energy, a can-do attitude and throw myself into work. Regardless of how difficult or time consuming it is.
-
-**Hands-on** - Always on hand to get stuck in with work or learning a new skill. Sometimes you’ve got to get in a mess to get out of a mess, but as long as you learn along the way, it’s an experience you can call upon. One of the things I learned while coding is that its always best to try, the more code you write the more you may get wrong, but the more breakthroughs you will have. 
-
-**Project orientated** - I have always enjoyed having an end goal, something to aim for that my skills can be tested within. Something that can be worked on, delivered, and reviewed. We had many different coding projects at Makers Academy and each of them were fun and educational with regards to overcoming a new challenge or technology
+**Driven** - A firm believer that hard work beats talent when talent doesn't work hard. I always strive to do my best and push myself. I have been able to reach a reletively high level of competition in my sport / esport career and i owe this to putting in the time and effort. If there is something that I don't quite understand or I feel I could do better at, I will make a plan and try and improve.
 
 ## Projects and Code
 
