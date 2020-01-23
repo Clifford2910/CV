@@ -16,7 +16,7 @@ I would consider myself to be competitive, I place high importance on teamwork a
 
 **Project orientated** - I enjoy having an end goal, something to aim for that my skills can be tested on. Something that can be worked on, delivered, and reviewed. We had many different coding projects at Makers Academy and each of them was engaging and educational tackling new challenges and technologies. Giving and receiving feedback after a project is always important as it allows an opportunity for self-reflection.
 
-**Driven** - A firm believer that hard work beats talent when talent doesn't work hard. I always strive to do my best and push myself. I have been able to reach a high level of competition in my sport / esport career and I owe this to putting in the time and effort. If there is something that I don't quite understand or I feel I could do better at, I will make a plan and try and improve.
+**Driven** - A firm believer that hard work beats talent when talent doesn't work hard. I always strive to do my best and push myself. I have been able to reach a high level of competition in my sport / esport career and I owe this to putting in the time and effort. As part of our final project at Makers Academy we took on new technologies in order to put our skills to the test, this challenged us to learn, adapt and overcome in a short space of time.
 
 ## Projects and Code
 
