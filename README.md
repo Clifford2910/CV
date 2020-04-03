@@ -18,7 +18,7 @@ I am a hard working individual who strives to deliver the highest calibre of wor
 
 ## Projects and Code
 
-**Route Around** - A single page web app, designed for urban runners, walkers and dog walkers. It allows a user to plot a circular route for the desired distance, using either a location (postcode) or current location (using geolocation services). This app was written in Node.js, React.js and Express. We used a Google API for the relevant map features.
+**Route Around** - A single page web app, designed for urban runners, walkers and dog walkers. It allows a user to plot a circular route for the desired distance, using either a location (postcode) or current location (using geolocation services). This app was written in Node.js, React.js and Express. A Google API was used for the relevant map features.
 
 https://routearound.herokuapp.com/
 
@@ -33,6 +33,10 @@ https://github.com/Clifford2910/rps_challenge.rb
 **Poker Hand Evaluator** - A command line based poker hand evaluator, written in Ruby, that accepts a list of poker hands and categorises them into their best scoring category.
 
 https://github.com/Clifford2910/poker_hands.rb
+
+**Bowling Scorecard** - A web broswer bowling scorecard, written in Javascript. The user inputs their score per roll in the fields presented and upon pressing the submit button their score is calculated and presented, this accounts for any bonus points earned for strikes and spares.
+
+https://github.com/Clifford2910/bowling_scorecard.js
 
 ## Education
 
