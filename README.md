@@ -33,8 +33,8 @@ https://routearound.herokuapp.com/
 
 #### Ilford County High School (2001 - 2009)
 
-A Levels: Biology, Physics, PE, Critical Thinking
-GCSEs: Mathematics, Chemistry, Physics, Biology, Resistant Materials, French, ICT, English, PE, Critical Thinking
+- A Levels: Biology, Physics, PE, Critical Thinking
+- GCSEs: Mathematics, Chemistry, Physics, Biology, Resistant Materials, French, ICT, English, PE, Critical Thinking
 
 #### Other qualifications
 
@@ -44,17 +44,13 @@ GCSEs: Mathematics, Chemistry, Physics, Biology, Resistant Materials, French, IC
 
 ## Experience
 
-**Mayfield Leisure Centre**  (Nov 2018 - Sep 2019)
-- Senior Duty Manager
+**Mayfield Leisure Centre** - Senior Duty Manager (Nov 2018 - Sep 2019)
 
-**Fullwell Cross Leisure Centre** (Jun 2015 - Nov 2018)   
-- Duty Manager
+**Fullwell Cross Leisure Centre** - Duty Manager (Jun 2015 - Nov 2018)   
 
-**Ashton Playing Fields**  (Jul 2013 - Jun 2015)
-- Duty Manager
+**Ashton Playing Fields** - Duty Manager (Jul 2013 - Jun 2015)
 
-**Fullwell Cross Leisure Centre**  (Sep 2009 - Jul 2013)
-- Lifeguard
+**Fullwell Cross Leisure Centre** - Lifeguard (Sep 2009 - Jul 2013)
 
 ## Hobbies
 
