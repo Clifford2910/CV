@@ -22,11 +22,11 @@ I am a hard working individual who strives to deliver the highest calibre of wor
 
 https://routearound.herokuapp.com/
 
-**Covid 19 Tracker** - A single page web app, written in Javascript and React.js, that pulls API information about Covid-19 from several sources and presents it for the user. It displays as global statistics and statistics per country.
+**Covid-19 Tracker** - A single page web app, written in Javascript and React.js, that pulls API information about Covid-19 from several sources and presents it for the user. It displays as global statistics and statistics per country.
 
 https://github.com/Clifford2910/covid-19_tracker.js
 
-**Rock, Paper, Scissors** - A web browser Rock, Paper, Scissors game, written in Ruby and Ruby on Rails. Can be played 1-player: vs the computer or 2-player: with a friend.
+**Rock, Paper, Scissors** - A web browser Rock, Paper, Scissors game, written in Ruby and Ruby on Rails. Can be played 1-player: vs the computer, or 2-player: with a friend.
 
 https://github.com/Clifford2910/rps_challenge.rb
 
